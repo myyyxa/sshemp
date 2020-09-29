@@ -1,2 +1,2 @@
-machine
 setuptools~=50.3.0
+webrepl~=0.2.0
