@@ -243,3 +243,4 @@ sdkconfig.old
 .idea/runConfigurations/
 .idea/sshemp.iml
 .idea/vcs.xml
+.idea/externalDependencies.xml
